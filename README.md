@@ -1,6 +1,6 @@
 # Community-And-Data-Driven_Homelessness_Prevention
 
-This repository holds OOS counterfactual predictions based on the BART model described in Kube et al. 2019 and Kube et al. (In Press).
+This repository holds OOS counterfactual predictions based on the BART model described in Kube et al. 2019 and Kube et al. (Under review).
 
 ## Attribution
 If you plan to use this data, we ask that you cite the following pre-print:
